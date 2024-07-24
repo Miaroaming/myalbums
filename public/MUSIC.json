@@ -1,0 +1,12 @@
+[
+    {"id":1,"name":"1989","artist":"Taylor Swift","date":1989, "image":"https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a"},
+    {"id":2,"name":"HIT ME HARD AND SOFT","artist":"Billie Eilish","date":2024, "image": "https://media.pitchfork.com/photos/6614092742a7de97785c7a48/master/w_1280%2Cc_limit/Billie-Eilish-Hit-Me-Hard-and-Soft.jpg"},
+    {"id":3,"name":"Demidevil","artist":"Ashnikko","date":2021, "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Ashnikko_-_Demidevil.png"},
+    {"id":4,"name":"Eternal Sunshine","artist":"Ariana Grande","date":2024, "image": "https://media.pitchfork.com/photos/65e5fbbaed9239d330ef9040/master/w_1280%2Cc_limit/eternal%2520sunshine.jpeg"},
+    {"id":5,"name":"Future Nostalgia","artist":"Dua Lipa","date":2020, "image": "https://upload.wikimedia.org/wikipedia/en/f/f5/Dua_Lipa_-_Future_Nostalgia_%28Official_Album_Cover%29.png"},
+    {"id":6,"name":"No Fixed Address","artist":"Nickelback","date":2014, "image": "https://i.scdn.co/image/ab67616d0000b2731e25fde2c52dbefd108e47ed"},
+    {"id":7,"name":"Scarlet","artist":"Doja Cat","date":2023, "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Doja_Cat_-_Scarlet.png"},
+    {"id":8,"name":"Short n' Sweet","artist":"Sabrina Carpenter","date":2024, "image": "https://images.genius.com/6d21ce79a60799d8688271148585d418.1000x1000x1.png"},
+    {"id":9,"name":"Cowboy Carter","artist":"Beyonce","date":2024, "image": "https://media.pitchfork.com/photos/65f9ba5e7f6a6f4c6c74a9d8/master/w_1280%2Cc_limit/Beyonce-Cowboy-Carter.jpg"},
+    {"id":10,"name":"SOS","artist":"SZA","date":2022, "image": "https://m.media-amazon.com/images/I/91BazzuLE+L._UF1000,1000_QL80_.jpg"}
+]
